@@ -9,3 +9,4 @@ Analyze sales trends and regional variations
 
 SQL File Link: https://drive.google.com/file/d/1z4iQhMXGZ-04bm6h6xLNS0N8gxiY7whB/view?usp=sharing
 SQL PDF Link :https://drive.google.com/file/d/1L3V6dQMGdIcotgdhVE8P-nq2dU_fdBPl/view?usp=sharing
+PPT file Link: https://drive.google.com/file/d/1CaClZl6mpZYK6Ag9PR9dpJMHTh9rzK3u/view?usp=sharing
