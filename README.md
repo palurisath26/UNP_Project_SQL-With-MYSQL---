@@ -6,3 +6,6 @@ This project focused on analyzing sales data from the Maven Markets sample datab
 Understand customer buying behavior and product performance
 Identify profitable products and categories
 Analyze sales trends and regional variations 
+
+SQL File Link: https://drive.google.com/file/d/1z4iQhMXGZ-04bm6h6xLNS0N8gxiY7whB/view?usp=sharing
+SQL PDF Link :https://drive.google.com/file/d/1L3V6dQMGdIcotgdhVE8P-nq2dU_fdBPl/view?usp=sharing
